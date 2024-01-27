@@ -1,0 +1,48 @@
+
+#main{
+    background: rgb(250, 244, 244);
+
+    
+    
+}
+#navbar{
+
+    background: rgb(250, 244, 244);
+
+}
+#input1{
+        width: 300px;
+        border: 2px solid black;
+        padding: 11px;
+
+
+}
+#input2{
+         margin-left: 20px;
+        width: 600px;
+        padding: 11px;
+        border: 2px solid black;
+
+}
+#img{
+    
+    width: 70px;
+}
+#pic{
+    margin-left: 20px;
+    width: 110px;
+}
+
+#row-contorl{
+    height: 10%;
+}
+#nav-control{
+    background: rgb(250, 244, 244);
+    /* position: absolute fixed;
+    position: fixed; */
+    z-index: 1;
+    /* margin-bottom: 20%; */
+
+
+}
+

@@ -1,0 +1,28 @@
+*{
+    
+}
+footer{
+    font-size: small;
+    cursor: pointer;
+    background-color: rgb(158, 186, 244);
+    margin-top: 15px;
+    padding-top: 12px;
+
+    
+}
+footer h3{
+    font-size: medium;
+}
+#div-bottom{
+    background-color: rgb(14, 76, 208);
+    cursor: pointer;
+    font-size: small;
+    color: aliceblue;
+    height: 50px;
+}
+
+#div-bottom p{
+    float: right;
+    padding: 14px;
+    margin-bottom: 0px;
+}
